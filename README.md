@@ -2,10 +2,10 @@
 
 In this project, I applied classification algorithms to determine whether a person will buy an SUV or not. The data was fed into multiple classification algorithms to fit both linear and non-linear decision boundaries. K-Fold cross validation techniques was used to find the optimum model. 
 </br> </br>
-Accuracy obtained has been summarised below: </br>
+Accuracy obtained on the **test set** has been summarised below: </br>
 
 1. Logistic Regression: 82.33 % </br>
 2. KNN Classifier: 93.00 % </br>
 3. SVM Classifier: 81.33 % </br>
-4. Kernel SVM Classifier: 93.00 % </br>
+4. Kernel SVM Classifier: **93.00 %** </br>
 5. Decision Tree Classifier: 91.00 %
