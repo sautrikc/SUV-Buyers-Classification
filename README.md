@@ -4,8 +4,8 @@ In this project, I applied classification algorithms to determine whether a pers
 </br> </br>
 Accuracy obtained on the **test set** has been summarised below: </br>
 
-1. Logistic Regression: 82.33 % </br>
-2. KNN Classifier: 93.00 % </br>
-3. SVM Classifier: 81.33 % </br>
-4. Kernel SVM Classifier: **93.00 %** </br>
-5. Decision Tree Classifier: 91.00 %
+**1. Logistic Regression:** 82.33 % </br> </br>
+**2. KNN Classifier:** 93.00 % </br> </br>
+**3. SVM Classifier:** 81.33 % </br> </br>
+**4. Kernel SVM Classifier:** **93.00 %** </br> </br>
+**5. Decision Tree Classifier:** 91.00 %
